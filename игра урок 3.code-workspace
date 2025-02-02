@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../игра урок 3"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Величко",
+		"liveServer.settings.port": 5501
+	}
+}
